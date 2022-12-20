@@ -1,0 +1,11 @@
+C:\Users\KKU\Documents\GitHub\CG01\CG01\CG01\bin\Debug\CG01.exe.config
+C:\Users\KKU\Documents\GitHub\CG01\CG01\CG01\bin\Debug\CG01.exe
+C:\Users\KKU\Documents\GitHub\CG01\CG01\CG01\bin\Debug\CG01.pdb
+C:\Users\KKU\Documents\GitHub\CG01\CG01\CG01\obj\Debug\CG01.csproj.AssemblyReference.cache
+C:\Users\KKU\Documents\GitHub\CG01\CG01\CG01\obj\Debug\CG01.csproj.SuggestedBindingRedirects.cache
+C:\Users\KKU\Documents\GitHub\CG01\CG01\CG01\obj\Debug\CG01.Form1.resources
+C:\Users\KKU\Documents\GitHub\CG01\CG01\CG01\obj\Debug\CG01.Properties.Resources.resources
+C:\Users\KKU\Documents\GitHub\CG01\CG01\CG01\obj\Debug\CG01.csproj.GenerateResource.cache
+C:\Users\KKU\Documents\GitHub\CG01\CG01\CG01\obj\Debug\CG01.csproj.CoreCompileInputs.cache
+C:\Users\KKU\Documents\GitHub\CG01\CG01\CG01\obj\Debug\CG01.exe
+C:\Users\KKU\Documents\GitHub\CG01\CG01\CG01\obj\Debug\CG01.pdb
